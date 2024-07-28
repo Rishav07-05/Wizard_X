@@ -1,4 +1,4 @@
-# Wizard_X ☄️
+# Wizard X ☄️
 A visually engaging landing page built using HTML, vanilla CSS, and JavaScript, featuring animations with GSAP.
 
 # Project Overview
